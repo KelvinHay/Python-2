@@ -7,3 +7,6 @@
 # She will collect the order
 # Collect payment 
 # Alert the customer when the order is complete 
+
+
+#Great Lets make a robot Barista
